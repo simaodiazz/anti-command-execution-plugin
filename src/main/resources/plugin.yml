@@ -1,0 +1,5 @@
+name: anti-command-execution-plugin
+version: '${version}'
+main: com.github.simaodiazz.anti.command.execution.AntiCommandExecutionPlugin
+api-version: '26.2'
+load: POSTWORLD
